@@ -206,7 +206,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-**Developed by [Shreya Ghosh](https://github.com/shreyagh1)**
-**Developed by [Sunidhi Choudhary](https://github.com/sunidhi009)
-**
+**Developed by [Shreya Ghosh](https://github.com/shreyagh1)** and [Sunidhi Choudhary](https://github.com/sunidhi009)
+
 
