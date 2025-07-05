@@ -175,19 +175,19 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 [MIT](LICENSE) (or your preferred license)
 
----
+## 👥 Developers
 
-**Developed by [Shreya Ghosh](https://github.com/shreyagh1)**
-real_estate_portal/
+- 👩‍💻 **[Sunidhi Choudhary](https://github.com/sunidhi009)** 
+- 👩‍💻 **[Shreya Ghosh](https://github.com/shreyagh1)** –
 
-├── admin/ # Admin dashboard and management pages
-├── agent/ # Agent dashboard and property management
-├── assets/ # CSS and static assets
-├── config/ # Database configuration
-├── index.php # Landing page
-├── login.php # Login page
-├── logout.php # Logout script
-├── signup.php # Signup page
+├── admin/ # Admin dashboard and management pages.
+├── agent/ # Agent dashboard and property management.
+├── assets/ # CSS and static assets.
+├── config/ # Database configuration.
+├── index.php # Landing page.
+├── login.php # Login page.
+├── logout.php # Logout script.
+├── signup.php # Signup page.
 
 
 ## Security Notes
