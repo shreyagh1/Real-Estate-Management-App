@@ -178,7 +178,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 👥 Developers
 
 - 👩‍💻 **[Sunidhi Choudhary](https://github.com/sunidhi009)** 
-- 👩‍💻 **[Shreya Ghosh](https://github.com/shreyagh1)** –
+- 👩‍💻 **[Shreya Ghosh](https://github.com/shreyagh1)** 
 
 ├── admin/ # Admin dashboard and management pages.
 ├── agent/ # Agent dashboard and property management.
