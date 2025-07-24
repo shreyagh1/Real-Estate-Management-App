@@ -171,41 +171,9 @@ real_estate_portal/
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
 [MIT](LICENSE) (or your preferred license)
 
 ## 👥 Developers
 
 - 👩‍💻 **[Sunidhi Choudhary](https://github.com/sunidhi009)** 
 - 👩‍💻 **[Shreya Ghosh](https://github.com/shreyagh1)** 
-
-├── admin/ # Admin dashboard and management pages.
-├── agent/ # Agent dashboard and property management.
-├── assets/ # CSS and static assets.
-├── config/ # Database configuration.
-├── index.php # Landing page.
-├── login.php # Login page.
-├── logout.php # Logout script.
-├── signup.php # Signup page.
-
-
-## Security Notes
-
-- **Never commit real database credentials to public repositories.** Use environment variables or a local config for production.
-- Passwords are securely hashed using PHP’s `password_hash` and `password_verify`.
-- All database queries use prepared statements to prevent SQL injection.
-
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](LICENSE) 
-
----
-
-**Developed by [Shreya Ghosh](https://github.com/shreyagh1)** and [Sunidhi Choudhary](https://github.com/sunidhi009)
-
-
