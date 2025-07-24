@@ -17,6 +17,21 @@ A web-based real estate management system for agencies and agents, built with PH
 - **Frontend:** HTML, CSS (Bootstrap 5), Bootstrap Icons
 - **Database:** MySQL
 
+## Folder Structure
+
+```
+real_estate_portal/
+├── admin/           # Admin dashboard and management pages
+├── agent/           # Agent dashboard and property management
+├── assets/          # CSS and static assets
+├── config/          # Database configuration
+├── index.php        # Landing page
+├── login.php        # Login page
+├── logout.php       # Logout script
+├── signup.php       # Signup page
+└── README.md        # Project documentation
+```
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
@@ -145,21 +160,6 @@ private $password = "your_password";
 ### Navigation
 - Use the top navbar to access Dashboard, Manage Properties, View Transactions, and Logout.
 - All actions are accessible from the main navigation for ease of use.
-
-## Folder Structure
-
-```
-real_estate_portal/
-├── admin/           # Admin dashboard and management pages
-├── agent/           # Agent dashboard and property management
-├── assets/          # CSS and static assets
-├── config/          # Database configuration
-├── index.php        # Landing page
-├── login.php        # Login page
-├── logout.php       # Logout script
-├── signup.php       # Signup page
-└── README.md        # Project documentation
-```
 
 ## Security Notes
 
